@@ -1,0 +1,19 @@
+{
+    "database": {
+        "user":"sa",
+        "password":"123456",
+        "server":"192.168.1.6",
+        "database":"PET"
+    },
+    "Intevalo": {
+        "tempo": 10000, 
+        "habilitado": true
+    },
+    "Elastic":{
+        "username":"bla",
+        "apiKey":"bla" 
+    },
+    "Filtro":{
+        "quantidade": 10 
+    }
+}
